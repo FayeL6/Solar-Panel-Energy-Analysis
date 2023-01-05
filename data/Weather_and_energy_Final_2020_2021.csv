@@ -1,0 +1,394 @@
+Name,Date time,Energy Discharged (Wh),Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Wind Gust,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Black Mountain, NC 28711, United States",2/1/2020,9929,48.5,34.1,39.2,32,,0.04,0,0,7.5,245.83,,5.9,34.2,85.64,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/2/2020,24392,65.1,32.8,45.5,28.1,,0,0,0,8.8,235,20.8,9.9,1.9,54.15,Clear
+"Black Mountain, NC 28711, United States",2/3/2020,16943,69.5,32.3,50.5,29.1,,0,0,0,6.6,65,,9.9,0,54.81,Clear
+"Black Mountain, NC 28711, United States",2/4/2020,2103,61.1,50.8,55.2,,,0,0,0,7.1,153.48,16.1,9.9,38.6,62.09,Partially cloudy
+"Black Mountain, NC 28711, United States",2/5/2020,1908,59.6,54.2,56.5,,,0.52,0,0,11.3,159.13,29.8,7.8,47.5,91.36,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/6/2020,1018,59,54.8,56.8,,,3.19,0,0,9,143.17,,5.3,41,93.09,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/7/2020,13584,54.7,28.5,39,21,,0.36,0,0,11.6,292.5,29.9,9.4,32.5,64.03,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/8/2020,4720,34.8,24.5,29.2,18.7,,0.06,0,0,10.2,219.55,21.9,8.8,22.8,78.44,Rain
+"Black Mountain, NC 28711, United States",2/9/2020,20663,49.8,26.1,35.3,23.3,,0,0,0,8.6,142.09,,7.1,20.9,75.66,Clear
+"Black Mountain, NC 28711, United States",2/10/2020,734,53.9,35.6,46.2,29.4,,0.28,0,0,9.5,163.63,24.2,9.5,34,80.04,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/11/2020,8513,65.3,51.4,57.5,,,0.31,0,0,10.8,245.83,24.2,9.4,39.8,84.92,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/12/2020,3276,53.4,45.6,49,43,,0.12,0,0,11.3,169.17,28.8,7.7,50.4,85.58,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/13/2020,7135,60.9,36.4,52.6,29.1,,0.96,0,0,12.1,217.83,31.1,8.2,31,81.97,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/14/2020,25696,41.6,28.9,34.6,20.7,,0,0,0,14,348.33,31.7,9.9,0,58.53,Clear
+"Black Mountain, NC 28711, United States",2/15/2020,23853,45.6,22.7,32.9,20.6,,0,0,0,8.4,134.17,17.2,9.9,0,57.88,Clear
+"Black Mountain, NC 28711, United States",2/16/2020,3843,44.3,29.6,36.4,28.6,,0,0,0,4.1,70.83,,9.9,35.3,74.78,Partially cloudy
+"Black Mountain, NC 28711, United States",2/17/2020,19514,57.5,28.7,42.8,44.5,,0,0,0,10,107.92,18.3,9.6,4.9,69.5,Clear
+"Black Mountain, NC 28711, United States",2/18/2020,3574,56.5,45.3,50.9,44.8,,0.27,0,0,8.3,134.58,,8.3,47.6,83.79,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/19/2020,7723,52.2,41.8,46,39.4,,0.03,0.74,0.74,12.5,272.52,28.9,9.3,42.3,68.55,"Snow, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/20/2020,1260,42.4,31.8,36.6,23.1,,0.27,0.44,1.18,13.4,183.26,30.6,7.1,38,73.8,"Snow, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/21/2020,17495,39.5,26.3,31.6,15.4,,0,0.92,1.18,13.3,339.17,29.9,9.9,9.4,56.7,Snow
+"Black Mountain, NC 28711, United States",2/22/2020,26034,55,20.8,36.2,25.9,,0,0,0,7.3,116.09,,9.9,0,52.29,Clear
+"Black Mountain, NC 28711, United States",2/23/2020,20967,56.8,24.9,40.4,44.5,,0,0,0,7.4,67.39,,9.9,17.4,57.96,Clear
+"Black Mountain, NC 28711, United States",2/24/2020,2604,46.7,42.3,44.1,39.4,,0.2,0,0,6.7,132.61,16.1,9.2,45.2,71.77,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/25/2020,17199,62.3,43.3,50.7,39.2,,0.21,0,0,9.6,153.04,18.3,9.1,23.8,82.88,Rain
+"Black Mountain, NC 28711, United States",2/26/2020,12361,57.5,36.6,45.8,30.3,,0,0,0,9.4,165.57,28.9,7.6,22,79.05,Clear
+"Black Mountain, NC 28711, United States",2/27/2020,24689,44,27.7,34.1,16.7,,0.01,0,0,15.1,283.75,41.4,8.9,20.7,53,Rain
+"Black Mountain, NC 28711, United States",2/28/2020,15045,44.4,25.7,34.1,25,,0.01,1.23,1.23,9.2,140,21.9,9.8,21.3,60.23,Snow
+"Black Mountain, NC 28711, United States",2/29/2020,18323,42.7,29.8,34.9,23.5,,0.06,0.74,1.97,11.6,323.75,33.9,9.2,15.2,54.78,Snow
+"Black Mountain, NC 28711, United States",3/1/2020,24740,57.5,22.8,40.2,22.9,,0,0,0.4,8.9,132.73,,9.9,1.7,45.24,Clear
+"Black Mountain, NC 28711, United States",3/2/2020,5102,53.7,43.4,48.2,39.7,,0,0,0,14.5,164.58,32.2,9.5,24.3,61.26,Clear
+"Black Mountain, NC 28711, United States",3/3/2020,9054,64.3,45.7,51.6,43.9,,0.65,0,0,9.4,163.64,19.7,8.8,29.8,80.73,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",3/4/2020,11112,56.7,45.2,50.3,43,,0,0,0,6.8,206.82,,9.9,15.9,51.6,Clear
+"Black Mountain, NC 28711, United States",3/5/2020,5775,52.8,38,45.6,42.9,,0.01,0,0,7.2,115.83,,9.7,18.1,69.47,Rain
+"Black Mountain, NC 28711, United States",3/6/2020,7548,45.3,32.4,38.1,24.7,,0,0,0,16.4,268.26,40.3,8.2,40.9,65.92,Partially cloudy
+"Black Mountain, NC 28711, United States",3/7/2020,27643,49.5,30.3,38.4,21.6,,0,0,0,20,317.08,47.2,9.9,20.2,49.59,Clear
+"Black Mountain, NC 28711, United States",3/8/2020,25560,59,23.4,40.8,39.1,,0,0,0,9.3,90,,9.9,0,54.18,Clear
+"Black Mountain, NC 28711, United States",3/9/2020,25168,62.1,27.9,46.2,45.1,,0,0,0,12.5,99.04,23,9.1,5.6,63.25,Clear
+"Black Mountain, NC 28711, United States",3/10/2020,10660,60.3,51.3,55.7,,,0.02,0,0,11.4,183.75,21.9,9.9,37.8,72.18,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",3/11/2020,20797,71.1,47.8,56.7,,,0,0,0,8.7,214.55,,8.1,23.5,72.56,Clear
+"Black Mountain, NC 28711, United States",3/12/2020,10338,67,38.6,54.2,,,0,0,0,10.2,116.25,24.2,9.9,21.8,78.22,Clear
+"Black Mountain, NC 28711, United States",3/13/2020,10494,64,55.3,60.5,,,0.05,0,0,12.1,273.04,25.3,9.1,31.7,73.62,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",3/14/2020,6539,62.5,50,55.5,,,0.01,0,0,7.4,158.75,,9.9,44.6,45.94,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",3/15/2020,6751,63.9,50.6,55.3,,,0,0,0,8.9,226.52,21.9,9.9,43.8,66.72,Partially cloudy
+"Black Mountain, NC 28711, United States",3/16/2020,10305,48.8,42.7,45.7,39.1,,0.01,0,0,7.5,160,,9.2,52.1,78.72,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",3/17/2020,16327,66,44,53.6,41.8,,0.11,0,0,8.1,222.08,19.7,8.3,41,80.2,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",3/18/2020,4361,58.4,45.4,52.6,,,0.05,0,0,8.2,73.48,21.9,4.4,39.5,92.41,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",3/19/2020,18382,72,54.9,63.3,,,0,0,0,14.4,125.83,32.2,7.4,24.6,78.66,Clear
+"Black Mountain, NC 28711, United States",3/20/2020,10506,75.6,57.4,66.2,,,0.19,0,0,9.4,185,24.9,9.8,20.8,67.47,Rain
+"Black Mountain, NC 28711, United States",3/21/2020,24829,67.5,47,57.6,42.4,,0,0,0,15,266.09,33.3,9.9,24.4,75.72,Clear
+"Black Mountain, NC 28711, United States",3/22/2020,10102,51.6,40.6,46.5,41.2,,0.03,0,0,8.1,135.42,18.3,9.5,35.7,79.48,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",3/23/2020,7272,56.6,44.5,49,41.7,,0.71,0,0,6.8,156.82,,8,37.7,88.09,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",3/24/2020,3892,53.7,49.5,51.7,49.2,,0.92,0,0,5.8,131.52,,7.3,46.1,91.18,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",3/25/2020,23147,63.4,49.5,54.9,,,0.44,0,0,13.7,211.25,27.7,7.9,27.7,73.67,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",3/26/2020,24941,66.8,40.6,54.3,46.2,,0,0,0,10.3,107.73,18.3,9.7,16.6,72.73,Clear
+"Black Mountain, NC 28711, United States",3/27/2020,25054,83.6,46.7,64.5,47.4,82.4,0,0,0,11.3,175,21.9,9.9,0,63.1,Clear
+"Black Mountain, NC 28711, United States",3/28/2020,24092,84.3,50.2,67.6,,83.7,0,0,0,12.6,145.91,26.4,9.3,0,65.34,Clear
+"Black Mountain, NC 28711, United States",3/29/2020,21867,80.6,56.5,67,,80.1,0.18,0,0,8.5,189.17,,9.5,2,54.11,Rain
+"Black Mountain, NC 28711, United States",3/30/2020,16683,68.9,52.2,60.5,,,0,0,0,12.7,315.45,26.4,9.9,0,29.11,Clear
+"Black Mountain, NC 28711, United States",3/31/2020,5309,56.1,42.6,49.5,37.1,,0.12,0,0,9.5,202.11,27.7,9.7,38.9,60.19,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",4/1/2020,11959,48.3,39.4,43.4,33.6,,0.03,0,0,10.9,317.92,25.3,9.7,39.6,69.35,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",4/2/2020,29664,58.7,41.6,48.7,36.5,,0,0,0,11.8,342.92,24.2,9.9,6.9,54.85,Clear
+"Black Mountain, NC 28711, United States",4/3/2020,28722,69.5,38.5,53.8,33.8,,0,0,0,9.6,345.83,23,9.9,3.4,46.54,Clear
+"Black Mountain, NC 28711, United States",4/4/2020,24035,71.5,44.4,57,45,,0,0,0,10.5,217.08,25.3,9.9,19.3,46.8,Clear
+"Black Mountain, NC 28711, United States",4/5/2020,21914,72.3,45.7,57.8,,,0,0,0,7.6,85.91,,9.9,21.8,60.08,Clear
+"Black Mountain, NC 28711, United States",4/6/2020,26604,75.4,43.5,60.6,,,0,0,0,7,189.58,17.2,9.8,13.7,61.17,Clear
+"Black Mountain, NC 28711, United States",4/7/2020,19561,75.5,45.9,61.6,,,0,0,0,7.3,48.33,,9.7,20.3,64.6,Clear
+"Black Mountain, NC 28711, United States",4/8/2020,18120,78.4,51.9,65.4,,,0,0,0,8.7,210.42,17.2,9.8,4.7,66.26,Clear
+"Black Mountain, NC 28711, United States",4/9/2020,24044,73.3,55.4,63.2,,,0.02,0,0,15.4,220,41.4,9.6,8.1,50.08,Rain
+"Black Mountain, NC 28711, United States",4/10/2020,30656,53.4,39.1,46.9,33.3,,0,0,0,18.1,280.42,44.3,9.5,4,33.44,Clear
+"Black Mountain, NC 28711, United States",4/11/2020,29497,64.7,31.4,49.2,27.3,,0,0,0,9.3,158.7,,9.9,0.6,40.47,Clear
+"Black Mountain, NC 28711, United States",4/12/2020,2928,64.9,42.8,52.2,46.4,,1.54,0,0,11.5,118.54,34.2,8.1,28.5,76.96,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",4/13/2020,21496,72,50,62.2,46.4,,1.85,0,0,15.5,275,51.2,8.8,16.9,68.19,Rain
+"Black Mountain, NC 28711, United States",4/14/2020,23994,68.2,43.9,52.7,39.7,,0,0,0,13.8,280.48,33.3,9.9,20.5,62.02,Clear
+"Black Mountain, NC 28711, United States",4/15/2020,30380,54.6,36.7,44.8,29,,0,0,0,15.2,274.38,33.3,9.9,13.7,43.07,Clear
+"Black Mountain, NC 28711, United States",4/16/2020,30501,59.7,31.8,46.2,27.9,,0,0,0,12.6,233.75,29.9,9.9,1.1,47.41,Clear
+"Black Mountain, NC 28711, United States",4/17/2020,30323,66.5,32.2,51.3,,,0,0,0,14.2,120.42,27.7,9.6,0,58.09,Clear
+"Black Mountain, NC 28711, United States",4/18/2020,29146,59.5,44.2,53.3,44.8,,0.2,0,0,12.9,255,30,9.5,14,57.23,Rain
+"Black Mountain, NC 28711, United States",4/19/2020,13918,65.6,33.9,48.7,46.6,,0,0,0,10.1,104.35,,9.9,15.1,68.84,Clear
+"Black Mountain, NC 28711, United States",4/20/2020,22742,64.2,45.2,53.7,46.8,,0.47,0,0,13.9,229.05,32.8,8.9,24.7,71.81,Rain
+"Black Mountain, NC 28711, United States",4/21/2020,22812,68.7,38.9,54.6,,,0,0,0,14.1,195.83,35.7,9.9,15.3,57.49,Clear
+"Black Mountain, NC 28711, United States",4/22/2020,27997,67.9,44.3,56.3,41.7,,0,0,0,8.6,202.61,19.7,9.9,6.3,34.93,Clear
+"Black Mountain, NC 28711, United States",4/23/2020,2734,58.4,49.3,53.8,48.4,,0.62,0,0,7.4,144.35,18.3,8,47.5,86.45,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",4/24/2020,16744,68.8,51,60.1,,,0,0,0,11,245.22,24.2,9.9,24.3,75.69,Clear
+"Black Mountain, NC 28711, United States",4/25/2020,6745,59.2,46,53.6,,,0.06,0,0,8.2,87.39,,9.5,38.4,87.13,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",4/26/2020,20752,65.3,45.5,54,42.3,,0,0,0,12,218.91,32.2,7.2,25.7,69.42,Partially cloudy
+"Black Mountain, NC 28711, United States",4/27/2020,31130,65.6,44.1,53.4,38.4,,0,0,0,16.1,300.83,38,9.9,5.4,44.78,Clear
+"Black Mountain, NC 28711, United States",4/28/2020,22020,71.7,36.8,55,,,0,0,0,9.4,124.09,20.8,9.8,16.8,59.38,Clear
+"Black Mountain, NC 28711, United States",4/29/2020,18948,70.5,49.4,60,46.4,,2.25,0,0,16.6,192.61,36.8,8.3,26.3,68.7,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",5/1/2020,18649,65.1,48.3,55.3,43.7,,0,0,0,18.8,312.17,44.2,9.9,16.5,51.99,Clear
+"Black Mountain, NC 28711, United States",5/2/2020,24834,75.8,41.2,59.2,48.4,,0,0,0,7.9,151.74,,9.9,0,56.84,Clear
+"Black Mountain, NC 28711, United States",5/3/2020,29026,83.6,45.5,66.1,,82.1,0,0,0,11.7,172.61,24.2,9.9,0.6,58.67,Clear
+"Black Mountain, NC 28711, United States",5/4/2020,26574,76.9,62.1,69.4,,,0,0,0,13.9,288.33,33.1,9.7,16.2,53.41,Clear
+"Black Mountain, NC 28711, United States",5/5/2020,17610,70.1,55.4,62.3,,,0.25,0,0,6.7,149.59,,9.2,25.7,79.6,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",5/6/2020,21121,60.6,42.2,52.3,38.4,,0.11,0,0,10.6,272.5,31.8,9.5,22.1,65.23,Rain
+"Black Mountain, NC 28711, United States",5/7/2020,30517,61.5,40.6,49.9,37.2,,0,0,0,14.1,271.09,28.9,9.9,2.5,52.04,Clear
+"Black Mountain, NC 28711, United States",5/8/2020,6314,56.9,37.7,46.5,40.5,,0.02,0,0,11.8,137.83,30.6,9.7,29.7,78.85,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",5/9/2020,31885,55.7,38.1,45.8,31.4,,0,0,0,13.7,334.17,33.3,9.9,6.1,47.56,Clear
+"Black Mountain, NC 28711, United States",5/10/2020,31142,67.8,30.4,49,33.3,,0,0,0,10.8,146.25,24.2,9.9,0.6,58.32,Clear
+"Black Mountain, NC 28711, United States",5/11/2020,29755,58.5,42.4,50.6,39.1,,0,0,0,15.6,282.92,33.3,9.8,7,48.45,Clear
+"Black Mountain, NC 28711, United States",5/12/2020,21329,60.5,37.4,48.8,35.5,,0,0,0,8.1,247.27,19.7,9.9,17.2,52.91,Clear
+"Black Mountain, NC 28711, United States",5/13/2020,15468,65.5,46.8,54.8,,,0,0,0,5.7,125.24,,9.9,40.8,68.3,Partially cloudy
+"Black Mountain, NC 28711, United States",5/14/2020,19982,75.2,48.2,61.9,,,0,0,0,11.9,134.17,23,9.7,15.2,72.49,Clear
+"Black Mountain, NC 28711, United States",5/15/2020,30128,77.8,54.7,66.5,,,0,0,0,10.3,152.61,24.2,9.7,0,65.64,Clear
+"Black Mountain, NC 28711, United States",5/16/2020,29285,80.3,50.1,66,,79.9,0,0,0,8.3,67.27,,9.9,2.3,68.93,Clear
+"Black Mountain, NC 28711, United States",5/17/2020,22536,78.4,53,66.2,,,0,0,0,8,84.29,18.3,9.9,15.5,74.15,Clear
+"Black Mountain, NC 28711, United States",5/18/2020,6289,66.3,60.7,63.4,,,1.37,0,0,5.4,83.86,,7.8,38.9,93.6,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",5/19/2020,6508,64.4,51.6,59.4,,,1.09,0,0,5.6,114,,7.1,44.8,94.5,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",5/20/2020,3983,53,47.4,49.9,46.7,,1.97,0,0,3.4,11,,5.7,48.7,93.6,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",5/21/2020,18800,67.1,50.5,57.2,,,0.31,0,0,6.1,68.57,,8,48.5,88.56,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",5/22/2020,14022,70.8,54,61.3,,,0.19,0,0,4.5,90,,7.9,33.9,90.89,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",5/23/2020,24618,81,56.6,67.8,,81.8,0,0,0,6.7,162.92,,7.6,16.6,80.09,Clear
+"Black Mountain, NC 28711, United States",5/24/2020,17852,79.7,58,68.5,,,0.01,0,0,7,129.57,,9.7,4.2,81.31,Rain
+"Black Mountain, NC 28711, United States",5/25/2020,24119,75.3,59.5,67.6,,,0,0,0,7.9,88.64,,9.6,32.1,85.58,Partially cloudy
+"Black Mountain, NC 28711, United States",5/26/2020,7537,69.9,65.3,66.7,,,0.1,0,0,5,103.18,,8,42.8,89.27,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",5/27/2020,6352,67.9,62.5,65.3,,,0.01,0,0,4.4,35,,9,47.8,85.37,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",5/28/2020,16872,77.3,61.3,68.6,,,0.22,0,0,8.8,130.83,16.1,9.9,26.9,87.26,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",5/29/2020,16413,78.1,62,68.2,,,0.03,0,0,8.2,90.43,,7.1,32.7,86.48,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",5/30/2020,27459,78.6,61.4,69.4,,,0,0,0,11.4,288.75,24.2,9,21.2,72.98,Clear
+"Black Mountain, NC 28711, United States",5/31/2020,26032,75.9,61.1,67.5,,,0,0,0,11.3,333.75,25.3,9.9,19.3,58.18,Clear
+"Black Mountain, NC 28711, United States",6/1/2020,30869,74.1,50.4,63.3,,,0,0,0,7,137,,9.9,11.2,59.99,Clear
+"Black Mountain, NC 28711, United States",6/2/2020,27406,82,53.4,68.2,,83.3,0,0,0,7.6,87.27,18.3,9.9,9,72.54,Clear
+"Black Mountain, NC 28711, United States",6/3/2020,26964,83.9,62.7,73.1,,84.6,0,0,0,8.8,246.09,23,9.8,16.6,73.61,Clear
+"Black Mountain, NC 28711, United States",6/4/2020,22727,82.4,62.3,71.3,,83.5,0.3,0,0,9.6,133.64,21.9,9.1,8.4,81.15,Rain
+"Black Mountain, NC 28711, United States",6/5/2020,21343,81.9,64.7,71.5,,83,0.17,0,0,7.1,167.86,23,9.7,30.2,82.07,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",6/6/2020,25737,85.5,63.8,73.8,,85.2,0,0,0,8.3,222.86,17.2,9.9,2,73.09,Clear
+"Black Mountain, NC 28711, United States",6/7/2020,27425,88.7,60.2,74.5,,88,0,0,0,8,157.08,18.3,9.7,2.3,72.91,Clear
+"Black Mountain, NC 28711, United States",6/8/2020,24090,81.5,63.7,73.6,,84.7,0,0,0,6.9,108.26,,9.5,21.7,82.02,Clear
+"Black Mountain, NC 28711, United States",6/9/2020,20418,85.6,69.5,76.1,,87.8,0.07,0,0,8.2,128.26,19.7,9.6,24.7,79.79,Rain
+"Black Mountain, NC 28711, United States",6/10/2020,9022,77.9,68.3,72.3,,,0.55,0,0,10.8,163.75,23,8.2,31.2,90.66,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",6/11/2020,29165,77.5,66,71.4,,,0.04,0,0,11.3,293.33,24.2,9.9,15.1,76.54,Rain
+"Black Mountain, NC 28711, United States",6/12/2020,24403,79.8,62.5,70.5,,,0,0,0,10.3,339.17,25.3,9.8,19,54.22,Clear
+"Black Mountain, NC 28711, United States",6/13/2020,25547,77.8,53.5,67.4,,,0,0,0,5.7,91,,9.9,26.8,62.12,Partially cloudy
+"Black Mountain, NC 28711, United States",6/14/2020,16520,72.6,55.2,61.9,,,0.34,0,0,6.1,66.5,,9.3,21.3,87.05,Rain
+"Black Mountain, NC 28711, United States",6/15/2020,19647,67.5,57.1,60.9,,,0,0,0,6.3,61.43,,9.8,43.2,81.87,Partially cloudy
+"Black Mountain, NC 28711, United States",6/16/2020,7743,58.6,55.8,57.3,,,0.22,0,0,4.7,75.88,,8,46.4,86.58,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",6/17/2020,14693,68.7,56.2,61.9,,,0,0,0,10.3,298.18,23,9.8,43.4,82.71,Partially cloudy
+"Black Mountain, NC 28711, United States",6/18/2020,15039,69.8,59.5,64.3,,,0.09,0,0,4.9,46.74,,8.8,44.3,85.6,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",6/19/2020,22067,73.9,57.2,66.4,,,0.09,0,0,6.4,154.09,,9.9,19.1,85,Rain
+"Black Mountain, NC 28711, United States",6/20/2020,22905,82,57.1,69.2,,81.9,0,0,0,9.1,123.75,20.8,8.1,14.4,75.69,Clear
+"Black Mountain, NC 28711, United States",6/21/2020,21751,83.1,60.7,71,,83.9,0.26,0,0,8.1,116.52,32.2,9.4,24.9,78.45,Rain
+"Black Mountain, NC 28711, United States",6/22/2020,26980,83.9,62.6,70.1,,84,0.12,0,0,5.7,96.19,,7.1,24.4,84.55,Rain
+"Black Mountain, NC 28711, United States",6/23/2020,16777,78.3,61.3,69.7,,,0.06,0,0,8.9,142.73,27.7,9.7,20.3,84.33,Rain
+"Black Mountain, NC 28711, United States",6/24/2020,25756,79.4,60.6,69.6,,,0,0,0,6.1,214.95,,9.9,12.3,76.26,Clear
+"Black Mountain, NC 28711, United States",6/25/2020,24097,81.6,64,71.9,,81.8,0,0,0,8.8,268.57,16.1,9.9,25.2,70.47,Partially cloudy
+"Black Mountain, NC 28711, United States",6/26/2020,28126,80.6,56.9,69.5,,82.2,0.01,0,0,6.6,75,17.2,9.7,17.8,78.23,Rain
+"Black Mountain, NC 28711, United States",6/27/2020,17456,77,64,70.4,,,0.02,0,0,8.1,246.19,,7.8,19.4,77.46,Rain
+"Black Mountain, NC 28711, United States",6/28/2020,18550,85.5,61.8,72.1,,85.7,0.01,0,0,9.4,206.96,20.8,9,9.1,75.24,Rain
+"Black Mountain, NC 28711, United States",6/29/2020,18284,83.3,65.7,73.5,,85.5,0.06,0,0,6.6,314.59,18.3,9.6,15.5,80.46,Rain
+"Black Mountain, NC 28711, United States",6/30/2020,17692,79.8,67.7,73.2,,,0.02,0,0,7.2,274.35,,9.8,26.3,81.42,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",7/1/2020,18005,81.6,67.2,73.7,,83.4,0.01,0,0,9,241.74,18.3,9.6,7.2,79.25,Rain
+"Black Mountain, NC 28711, United States",7/2/2020,24602,86.2,66.2,75.3,,85.3,0,0,0,9.3,285.22,19.7,9.5,14.3,70.32,Clear
+"Black Mountain, NC 28711, United States",7/3/2020,21334,86.4,63.2,73.8,,87.7,0.01,0,0,6.5,121,,9.9,23,74.82,Rain
+"Black Mountain, NC 28711, United States",7/4/2020,18148,87.8,65.9,74.1,,89.6,0.01,0,0,8.9,168.71,,9.8,22.9,79.72,Rain
+"Black Mountain, NC 28711, United States",7/5/2020,24540,86.4,65.1,75.5,,87.6,0,0,0,7.4,96.36,,7.3,17.8,75.72,Clear
+"Black Mountain, NC 28711, United States",7/6/2020,21395,80.8,63.5,72.9,,81.7,0.01,0,0,6.5,85.26,17.2,8.8,19.4,80.16,Rain
+"Black Mountain, NC 28711, United States",7/7/2020,11369,76,66.9,71.4,,,0.19,0,0,5.4,96.67,,9.2,33.7,88.31,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",7/8/2020,23763,83.9,63.9,73,,85.7,0.31,0,0,4.5,151.67,,9,21.6,82.6,Rain
+"Black Mountain, NC 28711, United States",7/9/2020,20192,83.8,66.5,72.1,,87.5,0.59,0,0,4.9,116.84,,9.2,16.9,87.72,Rain
+"Black Mountain, NC 28711, United States",7/10/2020,22966,84.8,64.5,71.9,,88.1,1.27,0,0,4.7,74.5,32.2,7,13.5,87.97,Rain
+"Black Mountain, NC 28711, United States",7/11/2020,27340,82.7,65,73.2,,82.9,0,0,0,9.9,336.52,21.9,9.9,4.3,73.04,Clear
+"Black Mountain, NC 28711, United States",7/12/2020,25724,83.2,59.2,71.5,,84.6,0,0,0,8.7,166.09,18.3,9.8,12.6,77.13,Clear
+"Black Mountain, NC 28711, United States",7/13/2020,22494,84.9,63.6,74.3,,85.9,0,0,0,9.7,268.26,20.8,9.7,3.1,72.44,Clear
+"Black Mountain, NC 28711, United States",7/14/2020,29551,87.4,62.5,75.2,,86.7,0,0,0,4.8,212.5,,9.9,10.5,69.43,Clear
+"Black Mountain, NC 28711, United States",7/15/2020,23635,88.2,62.6,76.2,,89.1,0,0,0,6.9,83.48,,9.7,15.4,73.29,Clear
+"Black Mountain, NC 28711, United States",7/16/2020,17327,87.3,70.9,78,,90.9,0,0,0,9.3,160.95,,9.3,27.8,77.8,Partially cloudy
+"Black Mountain, NC 28711, United States",7/17/2020,20941,88.4,67.4,76.9,,92.1,0,0,0,8.7,100.45,18.3,8.9,7.7,80.25,Clear
+"Black Mountain, NC 28711, United States",7/18/2020,19091,89.4,67.7,76.2,,91.3,0.02,0,0,7.3,184,,9.7,10.7,80.47,Rain
+"Black Mountain, NC 28711, United States",7/19/2020,14482,88,67.7,75.5,,90.9,0,0,0,6.9,168.64,18.3,8.7,16.5,81.14,Clear
+"Black Mountain, NC 28711, United States",7/20/2020,21403,88.7,67.8,75.2,,93,0.09,0,0,7.3,163.92,17.2,9.4,11.3,81.99,Rain
+"Black Mountain, NC 28711, United States",7/21/2020,14161,85.9,68.1,73.8,,88.7,0.01,0,0,9.5,156.13,19.7,7.9,19.6,84.31,Rain
+"Black Mountain, NC 28711, United States",7/22/2020,24584,85.6,63.8,73.5,,87.7,0.03,0,0,7,100.2,,8.3,20.3,81.29,Rain
+"Black Mountain, NC 28711, United States",7/23/2020,21420,81.2,65.6,72.2,,83.5,0.69,0,0,11,135.88,31.7,8.6,19,87.12,Rain
+"Black Mountain, NC 28711, United States",7/24/2020,10886,76.7,65.9,69.1,,,0.05,0,0,6.7,110,,7,27.2,93.19,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",7/25/2020,14196,84.9,64.6,71.5,,87.6,0.1,0,0,7.5,178.75,,8.3,26.9,86.63,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",7/26/2020,21004,86.4,66.2,74.5,,88.2,0.05,0,0,9.4,254.05,24.2,9.8,19.5,81.97,Rain
+"Black Mountain, NC 28711, United States",7/27/2020,24871,86.3,65.3,73.4,,88.6,0,0,0,9.8,247.83,25.3,9.9,9.4,83.19,Clear
+"Black Mountain, NC 28711, United States",7/28/2020,20044,85.1,63.5,72.8,,87.7,0.05,0,0,8,160.87,18.3,9.5,8.8,83.13,Rain
+"Black Mountain, NC 28711, United States",7/29/2020,19763,85.2,67.5,75.1,,89.8,0.06,0,0,7.6,167.73,,9.4,16.3,82.77,Rain
+"Black Mountain, NC 28711, United States",7/30/2020,15155,84,68.7,75.3,,89,0.07,0,0,11.1,161.74,,9.6,26.6,85.09,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",7/31/2020,24442,88.8,68,76,,92.3,0.46,0,0,11,140.91,26.4,7.3,23.8,80.85,Rain
+"Black Mountain, NC 28711, United States",8/1/2020,25332,85.8,67.9,75.3,,88.1,0.04,0,0,10.7,110.87,21.9,8.7,23.3,79.94,Rain
+"Black Mountain, NC 28711, United States",8/2/2020,20789,84.5,64.9,74.1,,87.2,0.03,0,0,8.8,146.96,19.7,9.9,8.2,80.39,Rain
+"Black Mountain, NC 28711, United States",8/3/2020,6380,71.9,65.6,68,,,0.89,0,0,4,87.83,,8.6,32.5,95.33,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/4/2020,25983,80.1,61.4,68.8,,81.7,0.48,0,0,7.7,135.45,,8.3,37.4,89.46,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/5/2020,12786,79.8,63.4,68.6,,,1.65,0,0,7.9,162.61,,6,30.5,92.77,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/6/2020,20355,80.3,64.7,71.4,,83.4,0.19,0,0,6.3,76.5,18.3,9,34.7,86.45,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/7/2020,15974,79.9,66.1,71.4,,,0.16,0,0,6.2,108.7,,9.3,32.6,87.49,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/8/2020,27590,85.4,64.8,72.1,,86.3,0,0,0,5.7,224.35,,7.4,27.1,83.12,Partially cloudy
+"Black Mountain, NC 28711, United States",8/9/2020,27048,84.6,63.2,72.6,,85.5,0.01,0,0,7.2,147.57,,8.3,24.8,79.35,Rain
+"Black Mountain, NC 28711, United States",8/10/2020,15339,81.2,62.9,72,,83.6,0,0,0,8.2,170,,9.7,18,81.79,Clear
+"Black Mountain, NC 28711, United States",8/11/2020,17936,84.2,64.7,73.6,,88.7,0,0,0,5.7,191.09,,9.2,16.8,82.63,Clear
+"Black Mountain, NC 28711, United States",8/12/2020,25066,85.7,66,74.6,,88,1.3,0,0,5.6,159.47,,9.3,18.4,81.89,Rain
+"Black Mountain, NC 28711, United States",8/13/2020,24926,83.2,66.5,73.7,,85.8,0.13,0,0,6.6,147.58,,7.6,26.9,84.54,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/14/2020,16861,79.3,67.4,72.5,,,0.44,0,0,6,130.91,,8.8,34.2,88.79,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/15/2020,8662,76.6,67.7,71.5,,,0.68,0,0,6.1,154.35,,7.4,31.3,91.92,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/16/2020,25153,81.9,65.7,72.5,,82.9,0,0,0,10.2,241.74,24.2,9.9,11,78.37,Clear
+"Black Mountain, NC 28711, United States",8/17/2020,26766,81.5,63.4,71.4,,82.9,0,0,0,10.6,206.25,25.3,9.5,7.4,77.34,Clear
+"Black Mountain, NC 28711, United States",8/18/2020,24008,81.2,57.8,69.4,,81.8,0.38,0,0,7.8,125.25,,9.3,6.4,76.54,Rain
+"Black Mountain, NC 28711, United States",8/19/2020,16497,80,63.5,68.9,,81.8,0.15,0,0,7,232.27,,8.5,30.1,86.77,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/20/2020,16829,78.6,62.6,68.8,,,0.01,0,0,5.2,105,,7.5,32.3,87.45,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/21/2020,7678,70.8,65.4,68,,,1,0,0,3.9,65.5,,7.3,41.9,92.7,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/22/2020,20726,78.4,65.1,70.5,,,0.14,0,0,7.7,146.82,20.8,9,28.2,86.84,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/23/2020,19093,78.9,64.7,71.2,,,0.15,0,0,8.5,97.83,,7.7,20.5,86.11,Rain
+"Black Mountain, NC 28711, United States",8/24/2020,16339,80.7,65.4,71.1,,82.8,0.12,0,0,6.7,144.13,,9.4,33,87.94,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/25/2020,10162,77.2,67.9,71.5,,,0.2,0,0,4.9,210.43,,9.5,28.2,90.67,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",8/26/2020,24085,85.6,65.1,73.9,,88.9,0,0,0,6,167.83,,9.9,14.2,80.8,Clear
+"Black Mountain, NC 28711, United States",8/27/2020,19330,85.6,66.6,73.3,,89,0.11,0,0,4.8,132.17,,7,20.5,88,Rain
+"Black Mountain, NC 28711, United States",8/28/2020,19027,83.5,68.5,74.9,,88.3,0.01,0,0,9.5,135.65,,9.9,7.7,85.98,Rain
+"Black Mountain, NC 28711, United States",8/29/2020,16330,82.7,69.4,74.7,,86.2,0.19,0,0,10.7,218.65,24.2,9.6,22.5,84.14,Rain
+"Black Mountain, NC 28711, United States",8/30/2020,19685,83.1,67.4,74.2,,84.6,0.01,0,0,6.2,262.09,19.7,9.9,13.6,80.33,Rain
+"Black Mountain, NC 28711, United States",8/31/2020,16115,78.5,66.9,71.6,,,0.73,0,0,6.3,135,,9.2,33.5,92.2,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",9/1/2020,18962,81.7,69.9,75,,86.4,0.27,0,0,6.5,113.48,,8.9,33.2,88.07,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",9/2/2020,25635,88.5,68.7,76.6,,91.5,0,0,0,5.1,126.96,,8.3,19.3,82.46,Clear
+"Black Mountain, NC 28711, United States",9/3/2020,26012,88.5,64.6,75.4,,88.3,0,0,0,7.2,171.3,,9.1,9.8,76.85,Clear
+"Black Mountain, NC 28711, United States",9/4/2020,25272,84.1,68.5,75.4,,87.3,0,0,0,7.2,293.91,19.7,9.9,20.9,79.96,Clear
+"Black Mountain, NC 28711, United States",9/5/2020,21275,79.9,60.3,70.2,,,0,0,0,9.3,309.17,20.8,9.9,7.1,67.57,Clear
+"Black Mountain, NC 28711, United States",9/6/2020,26965,77.3,53.1,64.5,,,0,0,0,4.9,160.21,,9.7,8.9,78.41,Clear
+"Black Mountain, NC 28711, United States",9/7/2020,26796,79.4,52.8,65.6,,,0,0,0,5.9,98.1,,9.1,4.7,79.39,Clear
+"Black Mountain, NC 28711, United States",9/8/2020,27307,81.3,54.5,66.4,,81.3,0,0,0,4.8,86.25,,8.6,5.8,79.19,Clear
+"Black Mountain, NC 28711, United States",9/9/2020,10593,77.1,60.9,69,,,0,0,0,5,100,,9.9,40.4,84.24,Partially cloudy
+"Black Mountain, NC 28711, United States",9/10/2020,15596,82,68,73.6,,84.8,0.12,0,0,5.4,147.08,,9.7,35.1,84.94,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",9/11/2020,25019,82.3,67.3,73.7,,85.8,0,0,0,5.5,175.09,,8.5,23.3,84.68,Clear
+"Black Mountain, NC 28711, United States",9/12/2020,5941,75.6,70,71.4,,,1.45,0,0,4.6,99.05,,8.6,43.3,96.07,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",9/13/2020,15189,77.9,67.5,71,,,0.15,0,0,5.8,110.45,,8,35.1,90.87,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",9/14/2020,13390,78.7,66,70.6,,,0.33,0,0,5.7,210.56,,9.3,32.2,90.19,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",9/15/2020,16472,71.2,60.8,66.2,,,0,0,0,6.3,98.89,,9.9,38.1,80.77,Partially cloudy
+"Black Mountain, NC 28711, United States",9/16/2020,22088,71,58.2,63.7,,,0.01,0,0,6.5,100.87,,9.9,32.3,81.61,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",9/17/2020,3725,67.7,61.7,64.5,,,2.63,0,0,5.4,211.19,,4.1,43.3,96.42,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",9/18/2020,20677,72.3,59.8,65.9,,,0,0,0,11.5,343.75,27.7,7.6,11.3,79.23,Clear
+"Black Mountain, NC 28711, United States",9/19/2020,13694,64.2,55.4,59.3,,,0,0,0,5.6,112.86,,9.9,35.8,76.41,Partially cloudy
+"Black Mountain, NC 28711, United States",9/20/2020,27357,65.8,46.8,55.3,,,0,0,0,5.5,50,,9.9,20.4,62.94,Clear
+"Black Mountain, NC 28711, United States",9/21/2020,25312,65,45.9,54,45.3,,0,0,0,6.6,78.89,,9.9,18.8,70.22,Clear
+"Black Mountain, NC 28711, United States",9/22/2020,24283,69,42,54.2,,,0,0,0,8.3,192.17,,9.3,12.8,77.16,Clear
+"Black Mountain, NC 28711, United States",9/23/2020,18668,70.6,50.2,59.3,,,0,0,0,5.1,104.09,,9.4,10.7,77.15,Clear
+"Black Mountain, NC 28711, United States",9/24/2020,5033,63.3,57.1,59.1,,,0.28,0,0,5.7,134.17,,9.1,42.1,92.36,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",9/25/2020,3881,62.9,57.3,59.7,,,1.79,0,0,6.4,148.83,,5.6,48.5,96.49,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",9/26/2020,18080,74.4,59.5,64.9,,,0,0,0,6,176.9,,7.9,48.4,87.51,Partially cloudy
+"Black Mountain, NC 28711, United States",9/27/2020,13988,73.5,60.2,65.3,,,0,0,0,6.2,89.57,,8.3,36.4,87.34,Partially cloudy
+"Black Mountain, NC 28711, United States",9/28/2020,18077,77.6,62.7,68.5,,,0.11,0,0,9.7,158.7,20.8,9.1,29,85.49,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",9/29/2020,5259,66.6,49.9,57,49.3,,0.94,0,0,10.6,272.92,28.9,7.7,37.2,94.26,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",9/30/2020,26019,68.3,43.6,54.9,47.7,,0,0,0,4.1,165.5,,8.9,10.1,79.59,Clear
+"Black Mountain, NC 28711, United States",10/1/2020,25499,74.8,45.2,57.5,46.8,,0,0,0,10.2,265,24.2,9.9,2.5,77.17,Clear
+"Black Mountain, NC 28711, United States",10/2/2020,26324,62.4,43.5,52.8,44.9,,0,0,0,9.7,277.08,23,9.9,1.7,63.85,Clear
+"Black Mountain, NC 28711, United States",10/3/2020,25468,64.2,38.1,50.2,41.3,,0,0,0,5.3,91.74,,8.8,8.4,79.07,Clear
+"Black Mountain, NC 28711, United States",10/4/2020,22906,66.4,39.4,52,,,0,0,0,4,34.09,,8.8,5.6,83.05,Clear
+"Black Mountain, NC 28711, United States",10/5/2020,25639,71,45.2,56.4,44.6,,0,0,0,5.3,187.27,,8.9,9.1,80.96,Clear
+"Black Mountain, NC 28711, United States",10/6/2020,24562,72.1,48.1,58,,,0,0,0,4.9,63,,7.6,15.7,86.42,Clear
+"Black Mountain, NC 28711, United States",10/7/2020,24589,76.7,49.5,60.7,,,0,0,0,6.9,212.95,18.3,7.1,11.8,79.19,Clear
+"Black Mountain, NC 28711, United States",10/8/2020,21829,79.4,50.7,63.4,,,0,0,0,8,225.22,18.3,9.9,0,77.64,Clear
+"Black Mountain, NC 28711, United States",10/9/2020,7893,67.1,57.4,61.4,,,0,0,0,5,95.88,,9,13.8,85.76,Clear
+"Black Mountain, NC 28711, United States",10/10/2020,2571,63.7,58.6,61.5,,,1,0,0,5.2,128.13,,6,46.9,97,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",10/11/2020,5514,70.3,62.4,64.7,,,1.27,0,0,5.6,61.74,,7,51.1,94.29,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",10/12/2020,9704,75.6,62.2,66.9,,,0.01,0,0,6.7,90.83,,9.1,44.2,90.13,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",10/13/2020,24823,69.6,52.6,62.9,,,0,0,0,12.8,279.55,28.9,7.3,16.6,83.28,Clear
+"Black Mountain, NC 28711, United States",10/14/2020,23496,73.8,42,56.8,45.7,,0,0,0,6.3,210,,9.9,0,69.4,Clear
+"Black Mountain, NC 28711, United States",10/15/2020,18177,76,44.2,58.1,,,0,0,0,12.1,128.33,24.2,9.7,10.4,84.16,Clear
+"Black Mountain, NC 28711, United States",10/16/2020,13269,58.5,46.1,53.6,42.4,,0,0,0,14.1,313.13,34.5,8.4,20.6,75.2,Clear
+"Black Mountain, NC 28711, United States",10/17/2020,24543,59.7,37.5,47.6,34.9,,0,0,0,6.3,197,,9.9,0,54.95,Clear
+"Black Mountain, NC 28711, United States",10/18/2020,23990,63.3,32.8,47.1,,,0,0,0,5.9,83.68,,9.9,0,77.65,Clear
+"Black Mountain, NC 28711, United States",10/19/2020,22364,70.6,39.8,53.4,,,0,0,0,6.4,58.95,,9.8,0,80.86,Clear
+"Black Mountain, NC 28711, United States",10/20/2020,23667,75.7,46.4,57,,,0,0,0,4.8,97.92,,6.6,13.5,83.2,Clear
+"Black Mountain, NC 28711, United States",10/21/2020,17814,77.6,50.1,61.6,,,0,0,0,5.8,96.82,,9.2,13.4,83.73,Clear
+"Black Mountain, NC 28711, United States",10/22/2020,22900,75,53.4,62,,,0,0,0,7.1,60.91,,7.1,18.3,85.27,Clear
+"Black Mountain, NC 28711, United States",10/23/2020,18426,74.4,53.8,62.3,,,0.13,0,0,6.2,73.04,,9.9,28,87.1,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",10/24/2020,10639,74.2,53.4,62,,,0.27,0,0,5.7,123.61,,7.1,32.1,89.72,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",10/25/2020,7307,67.9,58.8,62.3,,,0.57,0,0,5.9,68.5,,7.8,52.1,94.43,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",10/26/2020,16975,71.3,56.9,61.2,,,0.02,0,0,5.7,122.13,,8.5,40.4,89.29,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",10/27/2020,18904,75.1,55.7,62.8,,,0,0,0,3.5,80,,7.8,28,86.34,Partially cloudy
+"Black Mountain, NC 28711, United States",10/28/2020,1725,67,57.2,63.1,,,1.13,0,0,5.2,111.25,,6.4,48.7,99.06,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",10/29/2020,12920,80.6,64.3,71.1,,80.7,2.26,0,0,13,185.65,36.3,7.9,33.7,77.5,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",10/30/2020,23241,62.4,43.3,51.6,39.2,,0.02,0,0,14.3,317.5,35.6,9.8,25.1,67.05,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",10/31/2020,16375,53.6,34.3,44.8,38.3,,0,0,0,6.8,127.83,,9.9,22.1,76.22,Clear
+"Black Mountain, NC 28711, United States",11/1/2020,19127,66.6,43.9,52.5,37,,0.15,0,0,17.1,225.71,35.7,8.9,24.8,68.83,Rain
+"Black Mountain, NC 28711, United States",11/1/2020,24494,48.6,30.9,39,21.4,,0,0,0,16.7,340.42,43.8,9.9,0,41.49,Clear
+"Black Mountain, NC 28711, United States",11/2/2020,23193,60.5,28.7,42.8,23.2,,0,0,0,7.6,280.42,,9.9,0,50.95,Clear
+"Black Mountain, NC 28711, United States",11/3/2020,23028,64.9,30.9,46.1,,,0,0,0,6.2,62.73,17.2,9.8,0,67.67,Clear
+"Black Mountain, NC 28711, United States",11/4/2020,21780,64.9,32.4,46.8,,,0,0,0,5.1,38.75,,9.9,0,72.91,Clear
+"Black Mountain, NC 28711, United States",11/5/2020,22302,69.1,37.3,51.1,,,0,0,0,5.9,87.27,,9.9,0,75.07,Clear
+"Black Mountain, NC 28711, United States",11/6/2020,9638,65.6,41.6,53.2,,,0,0,0,4.7,58.33,,9.9,28.2,87.86,Partially cloudy
+"Black Mountain, NC 28711, United States",11/7/2020,8075,68.3,49,58,,,0,0,0,3.8,36.96,,9.6,48.3,86.45,Partially cloudy
+"Black Mountain, NC 28711, United States",11/8/2020,13544,70.2,56,62.1,,,0.01,0,0,6.4,93,,9.7,45.6,82.63,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",11/9/2020,5215,65.7,59.6,62.7,,,0.05,0,0,6.6,139.58,,8.5,50.8,94.64,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",11/10/2020,4079,72,64.1,67.2,,,1,0,0,5.1,115,,7,49.8,96.92,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",11/11/2020,4968,69.8,59.3,64.3,,,0.84,0,0,8.6,317.79,18.3,9,41.4,87.46,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",11/12/2020,22227,67,47.3,58.6,,,0,0,0,10.9,327.92,20.8,9.9,19.3,69.2,Clear
+"Black Mountain, NC 28711, United States",11/13/2020,21939,64.1,36.3,49.7,40.8,,0,0,0,9,106.96,,9.9,0,73.77,Clear
+"Black Mountain, NC 28711, United States",11/14/2020,11890,67.7,47.7,55.7,46.3,,0,0,0,13.9,177.27,41.4,9.9,26.8,73.66,Partially cloudy
+"Black Mountain, NC 28711, United States",11/15/2020,23383,54.5,34.7,45.9,35.6,,0,0,0,13.3,289.17,31.1,9.9,0,43.13,Clear
+"Black Mountain, NC 28711, United States",11/16/2020,23402,53.3,27.9,40.3,30.9,,0,0,0,14.3,217.17,34.4,9.8,0,58.34,Clear
+"Black Mountain, NC 28711, United States",11/17/2020,23137,52.6,29,39.8,23.3,,0,0,0,11,271.74,27.7,9.9,0,44.96,Clear
+"Black Mountain, NC 28711, United States",11/18/2020,22276,57,27,40,39,,0,0,0,7.5,92.5,,9.8,0,60.55,Clear
+"Black Mountain, NC 28711, United States",11/19/2020,22276,66.7,29,44.5,45.8,,0,0,0,5.5,101.25,,9.9,0,67.67,Clear
+"Black Mountain, NC 28711, United States",11/20/2020,20600,68,33.4,47.9,,,0,0,0,7.6,97.08,,9.9,0,74.95,Clear
+"Black Mountain, NC 28711, United States",11/21/2020,10657,63.1,37,49.2,,,0,0,0,8.2,98.75,17.2,9.9,19.8,82.47,Clear
+"Black Mountain, NC 28711, United States",11/22/2020,22889,52.4,36.7,45.5,32.2,,0.01,0,0,14.4,314.58,33.4,9.8,11.1,68.06,Rain
+"Black Mountain, NC 28711, United States",11/23/2020,18478,50.2,26.9,38.3,36.4,,0,0,0,8.9,126.96,18.3,9.8,1.9,72.57,Clear
+"Black Mountain, NC 28711, United States",11/24/2020,6086,54.3,40.5,47.8,36.1,,0.23,0,0,6.9,155.83,,7.6,50.6,83.79,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",11/25/2020,16471,67.4,44.9,55.5,,,0.29,0,0,5,157.73,,7.4,25.8,90.02,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",11/26/2020,19862,62.5,34,47.2,,,0,0,0,6.1,159.13,,8.8,3.7,78.2,Clear
+"Black Mountain, NC 28711, United States",11/27/2020,21489,61.7,40.6,51.2,44.1,,0.02,0,0,8.8,247.92,19.7,9.9,17.5,62.06,Rain
+"Black Mountain, NC 28711, United States",11/28/2020,5327,53.7,32.6,42.7,44.7,,0.21,0,0,5.9,95.91,,9.1,22.9,86.97,Rain
+"Black Mountain, NC 28711, United States",11/29/2020,9191,46.8,33.9,42.9,27.5,,0.7,0,0,11.6,270.83,28.3,8.1,45.7,81.54,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",11/30/2020,4131,35.6,27.1,30.5,18.8,,0,0.38,0.38,11.1,345,27.7,9.9,26.1,67.8,"Snow, Partially cloudy"
+"Black Mountain, NC 28711, United States",12/1/2020,22268,47.1,24.2,32.7,14.1,,0,0,0.15,14.1,335.83,34.6,9.9,0.6,55.42,Clear
+"Black Mountain, NC 28711, United States",12/2/2020,20239,58,19.5,36.1,39.6,,0,0,0,6.6,114.04,,9.9,9,63.26,Clear
+"Black Mountain, NC 28711, United States",12/3/2020,3261,53.6,41.7,46.6,37.4,,0.68,0,0,8.7,158.33,24.2,8.7,44.6,77.04,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",12/4/2020,20251,47.7,34,40.6,28.4,,0,0,0,12.6,331.67,30,9.9,15.7,73.26,Clear
+"Black Mountain, NC 28711, United States",12/5/2020,21539,52.2,26.2,37.7,29.7,,0,0,0,4.6,77.5,,9.6,3.9,78.25,Clear
+"Black Mountain, NC 28711, United States",12/6/2020,5413,41.7,32.7,38.2,22.5,,0,0,0,14.9,272.5,38.6,9.8,45,79.83,Partially cloudy
+"Black Mountain, NC 28711, United States",12/7/2020,22695,36.7,26.8,30.5,16.3,,0,0,0,13.9,343.92,34.4,9.9,10.8,62.69,Clear
+"Black Mountain, NC 28711, United States",12/8/2020,16614,53.7,28.1,37.6,19.7,,0,0,0,9.9,345,,9.9,0,63.89,Clear
+"Black Mountain, NC 28711, United States",12/9/2020,20124,63,31.5,45.4,28.2,,0,0,0,7.1,162.17,,9.9,0,62.1,Clear
+"Black Mountain, NC 28711, United States",12/10/2020,19173,62,29.4,44.1,,,0,0,0,6.7,75.65,,9.8,0,74.36,Clear
+"Black Mountain, NC 28711, United States",12/11/2020,12858,60.4,41.7,50.3,44.1,,0,0,0,12.4,120.83,26.4,9.7,28.2,77.32,Partially cloudy
+"Black Mountain, NC 28711, United States",12/12/2020,20891,63.5,44.3,53.8,,,0,0,0,8.3,109.57,,9.5,19.2,77.33,Clear
+"Black Mountain, NC 28711, United States",12/13/2020,14472,50.5,35.6,43.7,27.3,,1.46,0,0,17.1,296.09,42.5,8.1,40.1,82.58,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",12/14/2020,21554,44.9,26.8,35.4,27.8,,0,0,0,8.1,154.35,21.9,9.9,4.9,73.3,Clear
+"Black Mountain, NC 28711, United States",12/15/2020,1601,38.8,32.1,35.2,27,,0.35,0,0,6.5,189.38,,7.5,51.9,91.81,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",12/16/2020,16308,41.9,31.8,36.5,24.8,,0,0,0,9.7,340,24.2,9.9,44.8,84.38,Partially cloudy
+"Black Mountain, NC 28711, United States",12/17/2020,21889,39.6,27.5,31.6,18.4,,0,0,0,12.1,329.58,31.1,9.9,22.1,67.9,Clear
+"Black Mountain, NC 28711, United States",12/18/2020,16458,44.7,21,32.3,31.8,,0,0,0,7.6,68.26,,9.5,9,78.58,Clear
+"Black Mountain, NC 28711, United States",12/19/2020,19023,55,34.7,42.6,33.3,,0.01,0,0,5.1,131.25,,9.9,37.2,74.16,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",12/20/2020,21531,56.3,28.9,42.4,29.9,,0,0,0,13.2,224.9,35.6,7.7,13.9,70.26,Clear
+"Black Mountain, NC 28711, United States",12/21/2020,21871,50.4,32.2,44.9,29.4,,0,0,0,13.8,295.42,36.3,9.9,0,39.04,Clear
+"Black Mountain, NC 28711, United States",12/22/2020,15022,50.2,26.4,38.1,27.1,,0,0.69,0.69,8,104.17,20.8,9.9,14.1,64.67,Snow
+"Black Mountain, NC 28711, United States",12/23/2020,801,52.1,26.7,45.2,14.7,,1.62,0.61,1.18,15.3,185.96,42.5,6.8,49.9,90.18,"Snow, Partially cloudy"
+"Black Mountain, NC 28711, United States",12/24/2020,11417,24.9,13.6,19.2,2.2,,0.11,0.15,0.41,14.5,319.58,36.2,7.8,36,77.91,"Snow, Partially cloudy"
+"Black Mountain, NC 28711, United States",12/25/2020,22111,35.1,11.9,22.1,-1.7,,0,2.33,2.36,12.5,280.83,31.1,9.7,0,66.96,Snow
+"Black Mountain, NC 28711, United States",12/26/2020,21095,49.8,18.6,31.9,14.9,,0,0,2.36,7.6,88.33,17.2,9.9,0,75.2,Clear
+"Black Mountain, NC 28711, United States",12/27/2020,14744,51.4,28.7,39,24.9,,0,0,1.62,7.3,232.5,,9.9,14.2,78.63,Clear
+"Black Mountain, NC 28711, United States",12/28/2020,20920,55.5,35.4,43.5,29.6,,0,0,0.44,8.3,207.08,,9.9,0.6,72.73,Clear
+"Black Mountain, NC 28711, United States",12/29/2020,1496,41.3,35,37.9,31.3,,0.04,0,0,6.5,125.42,,5.6,47.7,82.86,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",12/30/2020,10593,63.2,40.6,51.1,41.2,,0.04,0,0,8.5,113.48,,6.6,37.8,89.46,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",12/31/2020,902,56.4,42.7,49.1,39.5,,1.45,0,0,7.2,162.79,,6,52.3,87.61,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",1/1/2021,16826,57.6,41.6,48.8,39.9,,0.1,0,0,4.6,229.25,,6.6,23.5,90.53,Rain
+"Black Mountain, NC 28711, United States",1/2/2021,14500,45.4,34.5,41.3,29.5,,0,0,0,10.8,288.63,25.3,7.5,40.2,83.4,Partially cloudy
+"Black Mountain, NC 28711, United States",1/3/2021,22219,46.9,31.7,38,25.8,,0,0,0,6.7,304.25,21.9,9.9,10.5,71.75,Clear
+"Black Mountain, NC 28711, United States",1/4/2021,3970,44.9,33.1,38.9,27.7,,0.01,0,0,10,328.29,35.8,9.9,39.3,79.18,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",1/5/2021,15914,42.1,27.2,34.2,22.2,,0,0,0,9.8,328.33,31.1,9.9,7,70.88,Clear
+"Black Mountain, NC 28711, United States",1/6/2021,12552,39,24.2,32.9,29.9,,0.17,0.69,0.69,4.8,141.29,,8.7,21.1,81.34,Snow
+"Black Mountain, NC 28711, United States",1/7/2021,58,35.4,31.5,33.3,22.2,,0.17,0.53,1.22,12.4,305.04,35.6,6.3,53.2,94.27,"Snow, Partially cloudy"
+"Black Mountain, NC 28711, United States",1/8/2021,17049,35,26.9,31.4,17.3,,0.01,0.32,0.49,13.7,342.25,34.5,9.9,32.4,76.73,"Snow, Partially cloudy"
+"Black Mountain, NC 28711, United States",1/9/2021,22314,41.8,23.4,31.9,17.7,,0,0,0.15,6.8,212.38,25.3,9.9,3.7,70.9,Clear
+"Black Mountain, NC 28711, United States",1/10/2021,2075,36.8,29.8,34.2,30.9,,0.06,0,0,4.5,229,,7.2,49.8,89.45,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",1/11/2021,22657,43.5,27.9,35.9,25,,0,0,0,8.5,343.46,23,9.3,24.9,89.91,Clear
+"Black Mountain, NC 28711, United States",1/12/2021,20342,48.6,25.6,36.3,20.8,,0,0,0,4.5,285.42,,8.8,17.4,72.88,Clear
+"Black Mountain, NC 28711, United States",1/13/2021,22400,51.5,29.6,38.9,24.4,,0,0,0,7.5,226.92,21.9,9.5,3.7,61.76,Clear
+"Black Mountain, NC 28711, United States",1/14/2021,10820,46.5,26.9,36.8,31.3,,0,0,0,10,176.75,27.7,9.4,19.8,62.69,Clear
+"Black Mountain, NC 28711, United States",1/15/2021,10064,35.9,26.6,31.1,23.7,,0.01,0,0,8.1,324.21,27.7,9.5,36.7,67.03,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",1/16/2021,14500,41.5,26.2,34,23,,0,0.23,0.23,7.8,279.46,,9.9,29.4,65.83,"Snow, Partially cloudy"
+"Black Mountain, NC 28711, United States",1/17/2021,12581,40.8,26.9,33.6,25.3,,0,0.16,0.39,10.1,277.5,21.9,9.8,16.8,71.74,Snow
+"Black Mountain, NC 28711, United States",1/18/2021,9244,49.9,26.5,38.3,34.8,,0,0,0.15,4.7,209.21,,9.9,35.8,66.22,Partially cloudy
+"Black Mountain, NC 28711, United States",1/19/2021,23498,45,32.5,38.4,30.8,,0,0,0,12.2,309.46,39.1,9.9,3.3,53.72,Clear
+"Black Mountain, NC 28711, United States",1/20/2021,6694,42.9,31.3,38.1,28,,0.02,0,0,8.8,334.25,18.3,9.9,34.4,80.69,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",1/21/2021,17300,51.4,34.6,41.1,27.8,,0,0,0,8.4,337.13,,9.9,0,57.59,Clear
+"Black Mountain, NC 28711, United States",1/22/2021,23874,44.7,30.3,35.7,23.2,,0,0,0,10.6,277.38,23,9.9,4.9,46.03,Clear
+"Black Mountain, NC 28711, United States",1/23/2021,14355,47,29.9,40.4,25.8,,0,0,0,6.2,147.04,18.3,9.9,44.6,43.91,Partially cloudy
+"Black Mountain, NC 28711, United States",1/24/2021,1500,55.8,39.5,48.3,45.8,,0.52,0,0,8,142.29,24.2,6.8,49.8,90.5,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",1/25/2021,17703,63.4,46.8,54.3,45.9,,0.19,0,0,8.3,234.88,39.1,7.3,42,69.75,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",1/26/2021,15608,59,35.6,48.7,28.2,,0.14,0,0,11.6,247.29,33.3,9.6,43,70.51,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",1/27/2021,25029,34.8,22.5,30,12.8,,0.01,0,0,20.2,343.88,49.4,9.8,17.8,65.57,Rain
+"Black Mountain, NC 28711, United States",1/28/2021,24386,39.3,20.1,29.1,10.6,,0,0,0,10.2,347.21,25.3,9.9,0,57.67,Clear
+"Black Mountain, NC 28711, United States",1/29/2021,6699,36.4,22,30.2,25.8,,0.14,0.69,0.69,7.4,115.92,,8.8,12,77.63,Snow
+"Black Mountain, NC 28711, United States",1/30/2021,7555,36.9,30.8,34.5,25.8,,0.57,0.49,1.18,5.1,159.83,,4.9,30.5,94.95,"Snow, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/1/2021,4676,35.2,26.4,31.3,15.8,,0.01,0.25,0.41,12.7,349.29,32.3,8.6,53.6,80.89,"Snow, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/2/2021,9315,31.4,25.1,28.3,12.5,,0,0.15,0.39,16.6,339.25,40.3,9.2,23.9,64.71,Snow
+"Black Mountain, NC 28711, United States",2/3/2021,25105,37.1,22.3,29.3,12.3,,0,0,0.39,14.5,327.42,40.3,9.7,2.3,52.69,Clear
+"Black Mountain, NC 28711, United States",2/4/2021,8212,40.8,20.4,34,17.4,,0.06,0,0.13,6.3,188.25,,9.8,24.1,54.68,Rain
+"Black Mountain, NC 28711, United States",2/5/2021,19382,46.6,27.6,37.6,24.9,,0.01,0,0,9,300,23,8.8,11.4,62.09,Rain
+"Black Mountain, NC 28711, United States",2/6/2021,10780,42.1,24.1,33.9,30.6,,0.26,0.74,0.74,4.8,162.17,20.8,7.7,29.6,68,"Snow, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/7/2021,8405,39.3,25.1,33.3,26,,0.08,0.44,1.18,11.7,305.04,35.6,8.4,23.6,85.27,Snow
+"Black Mountain, NC 28711, United States",2/8/2021,23198,48.3,23.2,38.2,34.3,,0,0,0.39,7.4,102.17,18.3,9.9,15.7,71.7,Clear
+"Black Mountain, NC 28711, United States",2/9/2021,17955,59,36.5,46.4,33.8,,0,0,0,6.9,248.17,,9.8,27,76.23,Partially cloudy
+"Black Mountain, NC 28711, United States",2/10/2021,22532,57.3,33.3,47.2,45.8,,0,0,0,6.4,136,,8.8,14.7,79.61,Clear
+"Black Mountain, NC 28711, United States",2/11/2021,2687,51.6,39.3,46.3,35.4,,0.38,0,0,6.7,114.52,,6.4,49.8,96.8,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/12/2021,2582,37.8,34.8,35.5,30.6,,0.27,0,0,6.5,153.42,,6.7,55.6,96.59,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/13/2021,4073,41.2,34.9,38.5,32,,0.47,0,0,3.6,139.04,,5.3,51.2,95.14,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/14/2021,2281,43.1,39.8,41.6,38.5,,0.06,0,0,4.2,135,,5.6,55.4,96.48,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/15/2021,2674,39.8,37.2,38.6,32.4,,0.88,0,0,7.4,176.67,,3.8,53.4,98.11,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/16/2021,25296,38.5,20,29.3,11.4,,0,0,0,13.7,289.58,34.4,9.6,25.7,87.27,Partially cloudy
+"Black Mountain, NC 28711, United States",2/17/2021,19743,40.5,21.2,32.9,15.5,,0.24,0,0,7.9,157.09,20.8,9.3,12.8,65.63,Rain
+"Black Mountain, NC 28711, United States",2/18/2021,4932,41,32.4,37.6,30,,0.92,0,0,5.9,224.75,,7.4,55.3,92.48,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/19/2021,25681,40.8,27.3,35.3,22.5,,0,0,0,12.6,342.63,32.2,9.8,11.8,76.47,Clear
+"Black Mountain, NC 28711, United States",2/20/2021,25980,41.5,24.2,31.4,15.9,,0,0,0,8.8,311.79,21.9,9.9,0,59.6,Clear
+"Black Mountain, NC 28711, United States",2/21/2021,25027,44.6,22.7,36,25,,0.04,0,0,9.3,124.79,23,9.6,12.5,58.68,Rain
+"Black Mountain, NC 28711, United States",2/22/2021,13093,51.6,34.3,41.8,30,,0.33,0,0,8.9,219.71,24.2,8.1,25.8,69.63,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/23/2021,25931,61.5,32.4,46.7,31.5,,0,0,0,8.3,258.04,31.1,9.9,0,46.95,Clear
+"Black Mountain, NC 28711, United States",2/24/2021,25591,65,30,48.6,42.7,,0,0,0,9,196.38,25.3,9.9,0,53.47,Clear
+"Black Mountain, NC 28711, United States",2/25/2021,25795,63.3,35.6,51,42.3,,0,0,0,7.3,274.17,17.2,9.9,5,51.25,Clear
+"Black Mountain, NC 28711, United States",2/26/2021,1905,47.8,38,41.9,32.9,,0.73,0,0,7.2,178.79,,6.7,43.7,80.4,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/27/2021,18946,63.2,38.4,52.2,35,,0.01,0,0,5.6,149.13,,8.8,40.3,83.28,"Rain, Partially cloudy"
+"Black Mountain, NC 28711, United States",2/28/2021,16190,68.1,53.6,62.8,,,0.05,0,0,12.8,178.25,30,9.6,44.6,76.68,"Rain, Partially cloudy"
